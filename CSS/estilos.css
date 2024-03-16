@@ -1,0 +1,71 @@
+body {
+  margin: 0;
+  background-color: #f6d050;
+  width: 100vw;
+  height: 100vh;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.ElementoPrincipal {
+  width: 400px;
+  height: 550px;
+  background-color: white;
+  border: 1px solid black;
+  border-radius: 20px;
+  box-shadow: 7px 7px 0px 0px black;
+  text-align: center;
+}
+.Imagem {
+  margin-top: 30px;
+  border-radius: 10px;
+}
+.Complemento {
+  margin-bottom: 50px;
+  margin-left: 32px;
+}
+.Complemento nav {
+  width: 100px;
+  text-align: center;
+}
+.Complemento h4 {
+  background-color: #f6d050;
+  font-size: 13px;
+  font-family: Arial, Helvetica, sans-serif;
+  padding: 7px 12px;
+  border-radius: 5px;
+  font-weight: 900;
+  margin-bottom: 0;
+}
+.Complemento p {
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: small;
+  float: left;
+}
+.Titulo {
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 1.55em;
+  font-weight: 700;
+}
+.Texto header {
+  text-align: left;
+  margin-left: 32px;
+  line-height: 1.6em;
+}
+.Texto header p {
+  font-size: 18px;
+  font-family: Arial, Helvetica, sans-serif;
+  color: hsl(0, 0%, 50%);
+}
+.Imagem2 {
+    width: 10%;    
+    float: left;
+    margin-left: 32px;
+}
+h3
+{
+    font-family: Arial, Helvetica, sans-serif;
+    margin-top: 10px;
+    float: left;
+    margin-left: 20px;
+}
